@@ -4,7 +4,7 @@ A modern civic intelligence dashboard and public services portal for the city of
 
 Consolidates live weather telemetry, real-time air quality index (AQI), multi-modal transit corridors, municipal utilities (water, power grid, solid waste), public safety helplines, and civic grievance redressal into a unified interface.
 
-![Vellore Smart City Dashboard Preview](https://raw.githubusercontent.com/hariharan957/smart-city-vellore-dashboard/main/preview.png)
+https://hariharan957.github.io/smart-city-vellore-dashboard/
 
 ---
 
