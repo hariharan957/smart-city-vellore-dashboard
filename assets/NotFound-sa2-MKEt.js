@@ -1,0 +1,6 @@
+import{c as t,j as e,L as s}from"./index-D4PxVgk-.js";/**
+ * @license lucide-react v0.475.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const a=[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"1d0kgt"}]],o=t("House",a),n=()=>e.jsxs("div",{className:"py-16 text-center space-y-4",children:[e.jsx("div",{className:"w-16 h-16 mx-auto rounded-2xl bg-teal-500/10 text-teal-600 flex items-center justify-center font-bold text-2xl",children:"404"}),e.jsx("h2",{className:"text-xl font-bold text-slate-800 dark:text-slate-100",children:"Page Not Found"}),e.jsx("p",{className:"text-xs text-slate-500 max-w-sm mx-auto",children:"The requested civic portal route does not exist. Please return to the city overview."}),e.jsxs(s,{to:"/",className:"inline-flex items-center gap-2 px-4 py-2 bg-teal-600 text-white rounded-xl text-xs font-semibold hover:bg-teal-700 transition-colors",children:[e.jsx(o,{className:"w-4 h-4"}),e.jsx("span",{children:"Return to Overview"})]})]});export{n as NotFound};
